@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "k8s-lab-code/1.0.0": {
+        "runtime": {
+          "k8s-lab-code.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "k8s-lab-code/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
